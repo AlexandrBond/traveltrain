@@ -10,11 +10,11 @@ body{background:rgba(2, 66, 17, 0.8)}
 .qwert {
   position:absolute;
   
-  top:2%; 
+   top:2%; 
    left:4%;
-  height: 700px;
+   height: 700px;
    max-height: 700px;
-     width: 1200px;
+   width: 1200px;
      /*max-width: 100%;*/
   background-color: hsla(200,40%,30%,.4);
   background-image:   
